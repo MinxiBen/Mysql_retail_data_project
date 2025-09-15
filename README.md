@@ -1,7 +1,7 @@
 # Mysql_retail_data_project
 This project demonstrates how SQL can be used to analyze bookstore sales data and generate actionable business insights.
 
-# import retail data
+## import retail data
 Using MySQL 8.0, we first import the dataset via the command line. (Directly importing files that contain Chinese characters can be challenging.)<br>
 Step 1: Use one repository：<br>
 use store_data;<br>
